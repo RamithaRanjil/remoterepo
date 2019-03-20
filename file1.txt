@@ -3,5 +3,6 @@ hai
 hello
 
 hai
+hello
 
 this ia an example file
